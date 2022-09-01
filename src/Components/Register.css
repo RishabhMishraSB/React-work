@@ -1,0 +1,30 @@
+#main{
+    text-align: center;
+    background-color: aquamarine;
+    height: 60px;
+}
+#regis{
+    padding-top: 10px;
+}
+#phone{
+    width: 250px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+#regis-btn{
+    margin-top: 30px;
+    height: 40px;
+    width: 100px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    background-color: white;
+    font-size: medium;
+}
+::placeholder{
+    font-size: medium;
+}
+input{
+    padding-left: 20px;
+}

@@ -1,0 +1,37 @@
+*{
+  margin: 0px;
+}
+#body{
+    text-align: center;
+    background-color: aquamarine;
+    height: 60px;
+}
+#head{
+   padding-top: 10px;
+}
+#email{
+    width: 250px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 6px;
+    margin-top: 70px;
+    padding-left: 20px;
+    
+}
+#pass{
+    width: 250px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+#login-btn{
+  width: 100px;
+  height: 40px;
+  margin-top: 30px;
+  border-radius: 6px;
+  border: 1px solid grey;
+  background-color: white;
+  font-size: medium;
+}
